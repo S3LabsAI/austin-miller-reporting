@@ -1,3 +1,4 @@
 .remember/
 .DS_Store
 .vercel
+.env*
